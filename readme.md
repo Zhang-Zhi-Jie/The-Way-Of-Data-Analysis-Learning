@@ -8,11 +8,11 @@
 
 - **统计数学**
 
-  统计学基础*《An Introduction to Statistical Methods and Data Analysis》*
+  统计学基础 *《An Introduction to Statistical Methods and Data Analysis》*
 
-  概率论基础*《概率论与数理统计》*
+  概率论基础 *《概率论与数理统计》*
 
-  线性代数基础*《Linear Algebra Done Right》*
+  线性代数基础 *《Linear Algebra Done Right》*
 
   矩阵论
 
@@ -28,13 +28,13 @@
 
 - **深度学习**
 
-  吴恩达深度学习课程、熟练使用Pytorch搭建模型*《Dine into the Deep Learning Pytorch》*
+  吴恩达深度学习课程、熟练使用Pytorch搭建模型 *《Dine into the Deep Learning Pytorch》*
 
   
 
 - **数据分析**
 
-  *《Head First Data Analysis》*、特征工程*《Feature Engineering for Machine Learning Principles and Techniques for Data Scientists》*、数据挖掘*《Introduction to Data Mining》*
+  *《Head First Data Analysis》*、特征工程 *《Feature Engineering for Machine Learning Principles and Techniques for Data Scientists》*、数据挖掘 *《Introduction to Data Mining》*
 
   
 
